@@ -1,0 +1,8 @@
+target/
+*.class
+*.jar
+*.zip
+.idea/
+qrcode.png
+
+
